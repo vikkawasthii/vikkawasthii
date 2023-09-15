@@ -1,4 +1,4 @@
-🚩 I’m doing projects in JAVA & SpringBoot (mainly the RESTful APIs nd its Security using Spring security) right now. 
+I’m doing projects in JAVA & SpringBoot (mainly the RESTful APIs nd its Security using Spring security) right now. 
 👾 I’m currently learning Server-side Development with NodeJS, Express and MongoDB.
 🎯 Current Goal: Building a complete website backend part with different technologies.
 🌻 Open to Collaboration.
