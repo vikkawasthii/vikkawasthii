@@ -1,9 +1,9 @@
--  👋 Hi, I’m @vikkawasthii
--  👀 I’m interested in Backend development
--  🌱 I’m currently learning React JS, Express, Node JS
--  💞️ I’m looking to collaborate on backend projects that involve databases and API development
--  📫 How to reach me: You can find my contact details in the "Contact" section of my GitHub readme
-
+🚩 I’m doing projects in JAVA & SpringBoot (mainly the RESTful APIs nd its Security using Spring security) right now. 
+👾 I’m currently learning Server-side Development with NodeJS, Express and MongoDB.
+🎯 Current Goal: Building a complete website backend part with different technologies.
+🌻 Open to Collaboration.
+⭐ Open to freelancing in Backend Development.
+✉️ Contact me at : vikasawasthi.cs@gmail.com
 <!---
 vikkawasthii/vikkawasthii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
